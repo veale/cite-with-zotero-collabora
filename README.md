@@ -1,4 +1,4 @@
-# Local Zotero for Collabora
+# Local Zotero Interface for Collabora
 
 A browser extension and server-side plugin that brings **full Zotero desktop integration** to Collabora Online. Insert, edit, and manage citations and bibliographies in your web browser using the same Zotero connector protocol as the native LibreOffice plugin — producing documents that are fully interchangeable between Collabora Online and LibreOffice desktop, so you can work offline and online sa you wish.
 
