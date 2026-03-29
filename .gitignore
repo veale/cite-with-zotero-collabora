@@ -1,2 +1,5 @@
 .claude
 local-zotero-collabora-firefox.zip
+chromium-extension.zip
+.gitignore
+*.odt
