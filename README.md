@@ -290,4 +290,6 @@ wopi/
 
 ## Licence
 
+This is an unofficial add-on for both Zotero and Collabora. Trademarked names are used on the basis of nominative fair use.
+
 Mozilla Public License Version 2.0
